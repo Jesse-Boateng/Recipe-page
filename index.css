@@ -1,0 +1,65 @@
+body{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+.header{
+    padding:5px;
+    margin: 10px;
+    background-color: maroon;
+    color: white;
+    text-align: center;
+    border: 1px solid;
+    
+}
+
+.h3{
+    color: white;
+    padding: 10px;
+}
+
+.ing{
+    background-image: url(tasty-fresh-appetizing-italian-food-ingredients-dark-background_1220-1745.jpg);
+    color: white;
+    background-size: cover;
+    margin: 10px;
+    padding: 1px;
+    font-size: 16px;
+  
+}
+
+.cook{
+    background-color: burlywood;
+    margin: 10px;
+    padding: 1px;
+    font-size: 16px; 
+   
+}
+
+.list p:nth-child(odd){
+    color: red;   
+}
+
+p{
+    text-align: justify;
+    padding: 3px;
+}
+
+.ck{
+    background-color: maroon;
+    color: white;
+    padding: 10px;
+}
+
+img{
+    margin: 5px;
+    padding: 10px;
+    height: 400px;
+    width: 400px; 
+    float: right;
+}
+
+/* Hello Isaac, please I have tried a lot to float the image to be beside the instructions but i am not getting it
+Kindly help me out */
