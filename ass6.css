@@ -1,0 +1,45 @@
+.jollof{
+    background-color:  rgb(179, 110, 31);
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+.ing{
+    background-image: url(tasty-fresh-appetizing-italian-food-ingredients-dark-background_1220-1745.jpg);
+    color: #ffffff; 
+    padding: 5px;
+    background-size: cover;
+}
+
+#h3{
+    margin: 15px;
+    color:  rgb(179, 110, 31);
+}
+
+#cook{
+    background-color: rgb(179, 110, 31);
+    padding: 10px;
+}
+
+.instruct{
+    width: 50%;
+    float: right;  
+}
+
+
+.list p:nth-child(even){
+    color: rgb(179, 110, 31);
+}
+
+.jr{
+    width: 50%;
+    float: left;
+
+}
+
+img{
+    max-width: 95%;
+    margin-top: 20px;
+    margin-left: 5px;    
+}
